@@ -1,9 +1,5 @@
 import numpy as np
 
-
-
-
-
 def bucle():
     cajas = np.random.permutation(100)
 
